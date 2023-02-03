@@ -33,4 +33,4 @@ function chooseColor(color: Colors2): void {
 chooseColor(Colors2.ROSA);
 
 // Module mode
-export {}
+export {};

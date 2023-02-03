@@ -36,3 +36,6 @@ function chooseColor(color: "red" | "green" | "blue") { // O parãmetro é dos t
   return color;
 }
 console.log(chooseColor("green"));
+
+// Module mode
+export {};
