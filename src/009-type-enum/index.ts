@@ -26,8 +26,11 @@ enum Colors2 {
   ROSA, // Ao atribuírmos um inicializador numérico, o próximo valor recebe um número adjacente.
 }
 
-function choseColor(color: Colors2): void {
+function chooseColor(color: Colors2): void {
   console.log(Colors2[color]);
 }
 
-choseColor(Colors2.ROSA);
+chooseColor(Colors2.ROSA);
+
+// Module mode
+export {}
