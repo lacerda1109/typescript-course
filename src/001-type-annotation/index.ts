@@ -1,4 +1,4 @@
-// Type Annotation
+// Type Annotation 
 
 /**
  * Type Annotation é quando dizemos para o TypeScript que uma variável é
